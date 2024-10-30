@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # real-world-vue-3-myself-2
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# vue3-feature-test
+vue3 feature test
+>>>>>>> fa54cdc990fb050895661bef7bb0e216178d0339
