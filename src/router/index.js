@@ -22,6 +22,11 @@ const router = createRouter({
       name: 'about',
       component: AboutView,
     },
+    {
+      path: '*',
+      name: 'not-found-component',
+      component: NotFoundView,
+    },
   ],
 })
 
